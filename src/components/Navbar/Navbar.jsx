@@ -1,4 +1,4 @@
-import React , { useState } from 'react'
+import React from 'react'
 import { assets } from './../../assets/assets';
 import './Navbar.css'
 import { Link } from 'react-router-dom';
